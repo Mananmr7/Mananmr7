@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mananmr7
-- 👀 I’m interested in ...competetive
+- 👀 I’m interested in ...Competitive Coding
 - 🌱 I’m currently learning ...c++
 - 💞️ I’m looking to collaborate on ...new projects
 - 📫 How to reach me ...mananmr7@gmail.com
